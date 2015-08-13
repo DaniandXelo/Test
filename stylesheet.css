@@ -2,6 +2,7 @@ p{
 	color:green;
 	font-family:Garamond;
 	text-align:center;
+	margin:auto;
 }
 
 div{
@@ -9,4 +10,6 @@ div{
 	width:120px;
 	border-color:#6495ED;
 	background-color:#BCD2EE;
+	margin:auto;
+	text-align:center;
 }
